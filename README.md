@@ -20,3 +20,11 @@
 - Kitti-360: Close to the format of ThinkTron data but does not include some required classes. 
 - Toronto-3D: Close to the format of ThinkTron data, including road mark class, but cannot be applied to ThinkTron data.
 
+## Reference
+- RandLA-Net: Ef cient Semantic Segmentation of Large-Scale Point Clouds
+- PointNet++: Deep Hierarchical Feature Learning onPoint Sets in a Metric Space
+- KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D
+- PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+- Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways
+- Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: ADataset, Benchmarks and Challenges
+
