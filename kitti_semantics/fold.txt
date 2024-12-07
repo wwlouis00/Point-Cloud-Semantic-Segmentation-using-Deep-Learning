@@ -1,0 +1,4 @@
+fold 1: 0,1 train 2 val 3 test
+fold 2: 1,2 train 3 val 0 test
+fold 3: 2,3 train 0 val 1 test
+fold 4: 3,0 train 1 val 2 test
